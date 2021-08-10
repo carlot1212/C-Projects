@@ -1,0 +1,5 @@
+Sand Village
+Berserker   Hero 123 120 0  0  42 32 42 13 13 2  5  
+Archer      Hero 81  80  31 30 32 22 81 32 43 2  5  
+Cleric      Hero 81  80  42 40 23 33 53 23 22 2  5  
+Gunslinger  Hero 91  90  32 30 41 21 51 11 21 2  5  
